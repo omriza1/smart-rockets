@@ -186,6 +186,7 @@ namespace smart_rockets
             //Blabla
 
             Calcfitness();
+            //v2
             Evaluate();
             Matingpool();
             for (int i = 0; i < rockets.Length; i++)
