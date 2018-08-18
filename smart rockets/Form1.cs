@@ -32,6 +32,7 @@ namespace smart_rockets
             this.Height = 1080;
             #region obstacle
             obstacle = new PictureBox();
+            //v4
             obstacle.Width = 300;
             obstacle.Height = 20;
             obstacle.BackColor = Color.Black;
