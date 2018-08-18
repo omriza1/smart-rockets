@@ -187,6 +187,7 @@ namespace smart_rockets
 
             Calcfitness();
             //v2
+            //v3
             Evaluate();
             Matingpool();
             for (int i = 0; i < rockets.Length; i++)
