@@ -183,11 +183,7 @@ namespace smart_rockets
             //פעולה שמאפסת את כל הנתונים בתכנית למצב ההתחלתי שלהם
             this.timer1.Enabled = false;
             this.timer2.Enabled = false;
-            //Blabla
-
             Calcfitness();
-            //v2
-            //v3
             Evaluate();
             Matingpool();
             for (int i = 0; i < rockets.Length; i++)
